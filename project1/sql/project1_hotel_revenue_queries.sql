@@ -12,7 +12,8 @@ SELECT * FROM `portfolio-project-1-17092023.Hotel_revenue_portfolio_project.rev_
 Using inner join funntion to join 'market_seg' database to 'hotels' database
 on the column 'market_segment', resulting in the addition of the 'discont'- 
 column to our combined databse of 'hotels'
-Further performing left join to add in the meal data, on the column 'meal' 
+Further performing left join to add in the meal data, on the column 'meal'
+All using the new combined 'hotels' dataset
 */
   
 select * from hotels
