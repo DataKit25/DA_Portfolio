@@ -2,8 +2,9 @@
 library(readr)
 library(dplyr)
 
-# Load dataset
-by_tag_year <- read_csv("datasets/by_tag_year.csv")
+# Load dataset 
+# Note : To have this command work make sure the data file is in the working directory of R Studio
+by_tag_year <- read_csv("by_tag_year.csv")
 
 # Inspect the dataset
 head(by_tag_year)
