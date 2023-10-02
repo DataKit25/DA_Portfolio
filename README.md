@@ -4,7 +4,8 @@ Welcome to my Data Analytics Portfolio <br>
 
 Here you will find all the projects that I have done, guided and unguided. 
 
-The projects are separated in different files names project<'project number'>, eg: **project1**
+The projects are separated in different files names project<'project number'>, eg: **project1** <br>
+***I highly encourage reading the 'readme' files in each of the project folders as they have detailed documentation of the projects***
 
 This is a work-in-progress portfolio, more projects will be added once they are completed. 
 
