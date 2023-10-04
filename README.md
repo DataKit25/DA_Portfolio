@@ -14,7 +14,7 @@ This is a work-in-progress portfolio, more projects will be added once they are 
 * **Project 2** : This project makes use of **'R'** programming language to analyse and visualise the data. **Title** : ***'Rise and Fall of Programming Languages'***.
 * **Project 3** : This project uses Excel and it's tools to clean, summarise and visualise data. **Title** : ***'Bike Purchase Analysis and Visualisation Dashboard with Excel'***. 
 
-## In pipeline
+## In progress
 * Case study by Google, as a part of **'Google Professional Data Analytics Certificate'**
 
 **- Ankit Walimbe**
