@@ -60,6 +60,12 @@ Review the data cleaning process in Google Sheets.
 Open the Tableau workbook in the tableau/ folder to explore the visualizations.
 Interact with the Tableau dashboard to analyze hotel revenue trends.
 
+### Acknowledgements ###
+
+This project data and steps were provided in a guided project by Absent Data. <br>
+The video for the project can be found by following this link: [https://www.youtube.com/watch?v=S2zBHmkRbhY] <br>
+I am grateful for the resources provided by **'Absent Data'** that made this project possible. 
+
 ### Future Enhancements:
 This project can be extended and improved in several ways:
 
