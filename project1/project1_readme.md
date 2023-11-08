@@ -17,7 +17,7 @@ The cleaned data was uploaded into Google BigQuery. I queried the data to unders
 
 To gain insights over a multi-year period, I combined data from three different years into a single dataset. This new dataset was then queried to prepare it for analysis.
 
-### Enriching the Data:
+### Enriching the Data:
 
 I used SQL joins, including inner and left joins, to enrich the main dataset with additional information from two separate datasets: 'market_segment' for discount information and 'meal_cost' for meal cost details.
 
